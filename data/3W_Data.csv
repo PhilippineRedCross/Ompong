@@ -310,7 +310,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 309;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Bangao;Finished;4;families
 310;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Buyacaoan;Finished;34;families
 311;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Catlubong;Finished;18;families
-312;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;142701;Lengaoan;Finished;16;families
+312;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Lengaoan;Finished;16;families
 313;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Loo;Finished;19;families
 314;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Natubleng;Finished;10;families
 315;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Poblacion;Finished;75;families
@@ -390,16 +390,16 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 392;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Ripang;Finished;44;Families
 393;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Buluan;Finished;5;Families
 394;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Buluan;Finished;5;Families
-395;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Mawigue;Finished;53;Families
-396;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Mawigue;Finished;53;Families
+395;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Mawigue;Finished;51;Families
+396;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Mawigue;Finished;51;Families
 397;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Banban;Finished;130;Families
 398;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Banban;Finished;130;Families
 399;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Daga;Finished;65;Families
 400;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Daga;Finished;65;Families
 401;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Puguin;Finished;61;Families
 402;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Puguin;Finished;61;Families
-403;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Calafug;Finished;67;Families
-404;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Calafug;Finished;67;Families
+403;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1481;148102;Calafug;Finished;69;Families
+404;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1481;148102;Calafug;Finished;69;Families
 405;PRC;Assessment;Assessment;RDANA;128;12808;;Finished;1;area
 406;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140106;;Finished;17;families
 407;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140106;;Finished;17;families
@@ -584,7 +584,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 586;PRC;Health;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
 587;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Lomon;Finished;412;individuals
 588;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Poblacion;Finished;412;individuals
-589;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1427;141108;Tuplac;Finished;5;families
+589;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1427;142703;Tuplac;Finished;5;families
 590;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1427;142703;Tuplac;Finished;15;families
 591;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142703;Bolog;Finished;1;families
 592;Spanish Red Cross - AECID;Relief;Food Items;Food Items (Standard);1411;141109;Poblacion;Finished;110;families
@@ -1021,20 +1021,3 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1029;PRC;Health;Health;Doxycycline;155;;;Delivered;2000;pcs
 1030;PRC;Health;PSS;Welfare Desk;369;;;Finished;;
 1031;PRC;Health;PSS;Welfare Desk;371;;;Finished;;
-1032;PRC;Assessment;Assessment;RDANA;128;12823;;Finished;1;area
-1033;PRC;Relief;Ready-to-Eat;Hot Meals;516;51612;Poblacion;Finished;528;individuals
-1034;PRC;Health ;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
-1035;PRC;Health ;PSS;Welfare Desk;1401;;;Finished;;
-1036;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;;;Finished;13;volunteers
-1040;PRC;Health ;PSS;Welfare Desk;1427;;;Finished;;
-1041;PRC;Health ;PSS;Welfare Desk;128;;;Finished;;
-1042;PRC;Health ;PSS;Welfare Desk;129;;;Finished;;
-1044;PRC;Health ;PSS;Welfare Desk;231;;;Finished;;
-1045;PRC;Health ;PSS;Welfare Desk;1432;;;Finished;;
-1046;PRC;Health ;PSS;Welfare Desk;1432;;;Finished;;
-1047;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;;;Finished;279;individuals
-1048;PRC;Health ;Health;Blood Units;133;;;Finished;1;units
-1049;PRC;Health ;PSS;Welfare Desk;250;;;Finished;;
-1050;PRC;Health ;Health;Doxycycline;155;;;Delivered;2000;pcs
-1051;PRC;Health ;PSS;Welfare Desk;369;;;Finished;;
-1052;PRC;Health ;PSS;Welfare Desk;371;;;Finished;;
