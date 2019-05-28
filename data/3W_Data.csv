@@ -3,26 +3,26 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 2;PRC;Relief;Ready-to-Eat;Hot Meals;133;13301;San Isidro;Finished;71;individuals
 3;PRC;Assessment;Assessment;RDANA;133;13301;;Finished;1;area
 4;PRC;Assessment;Assessment;RDANA;215;21502;;Finished;1;area
-5;PRC;Health ;Health;First Aid Station;215;21502;Malalatan;Finished;1;area
+5;PRC;Health;Health;First Aid Station;215;21502;Malalatan;Finished;1;area
 6;PRC;Relief;Food Items;Food Items (Standard);215;21502;Malalatan;Finished;313;families
 7;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Centro;Finished;25;Families
 8;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Centro;Finished;25;Families
 9;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Daloig;Finished;569;Families
 10;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Daloig;Finished;569;Families
-11;PRC;Health ;PSS;Welfare Desk;215;21502;Daloig;Finished;;
+11;PRC;Health;PSS;Welfare Desk;215;21502;Daloig;Finished;;
 12;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21502;Daloig;Finished;569;individuals
-13;PRC;Health ;Health;First Aid Station;215;21502;Daloig;Finished;1;area
+13;PRC;Health;Health;First Aid Station;215;21502;Daloig;Finished;1;area
 14;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21502;Calantac;Finished;579;Families
 15;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21502;Calantac;Finished;579;Families
-16;PRC;Health ;PSS;Welfare Desk;215;21502;Calantac;Finished;;
+16;PRC;Health;PSS;Welfare Desk;215;21502;Calantac;Finished;;
 17;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21502;Calantac;Finished;579;individuals
-18;PRC;Health ;Health;First Aid Station;215;21502;Calantac;Finished;1;area
-19;IFRC;Livelihood;Cash;Conditional Cash Grant (PHP 10,000);215;21502;Afusing Daga;Finished;43;households
+18;PRC;Health;Health;First Aid Station;215;21502;Calantac;Finished;1;area
+19;IFRC;Livelihood;Cash;Conditional Cash Grant (PHP10,000.00);215;21502;Afusing Daga;Finished;43;households
 20;IFRC;Livelihood;Cash;Conditional Cash Grant (PHP 10,000);215;21502;Afusing Daga;Finished;43;Households
-21;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 54,000);215;21502;Abbeg;Finished;2;Households
-22;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 54,000);215;21502;Cabuluan;Finished;7;Households
-23;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 54,000);215;21502;Malalatan;Finished;8;Households
-24;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 54,000);215;21502;Tamban;Finished;10;Households
+21;IFRC;Shelter;Cash;Conditional Cash Grant (54,000.00);215;21502;Abbeg;Finished;2;Households
+22;IFRC;Shelter;Cash;Conditional Cash Grant (54,000.00);215;21502;Cabuluan;Finished;7;Households
+23;IFRC;Shelter;Cash;Conditional Cash Grant (54,000.00);215;21502;Malalatan;Finished;8;Households
+24;IFRC;Shelter;Cash;Conditional Cash Grant (54,000.00);215;21502;Tamban;Finished;10;Households
 25;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;San Juan;Finished;59;families
 26;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;Dolowog;Finished;4;families
 27;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;Sto Domingo;Finished;4;families
@@ -33,77 +33,77 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 32;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;Kiling;Finished;20;families
 33;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;Malalupa;Finished;10;families
 34;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142707;Killing;Finished;1;families
-35;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Calupaan;Finished;13;families
-36;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Namnama;Finished;18;families
-37;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;San Juan;Finished;41;families
-38;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Sto. Domingo;Finished;1;families
-39;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Caragasan;Finished;13;families
-40;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Killing;Finished;11;families
-41;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Pinto;Finished;15;families
-42;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Sta Maria;Finished;2;families
-43;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Bangar;Finished;4;families
-44;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Calimag;Finished;2;families
-45;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Dolowog;Finished;2;families
-46;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Namillangan;Finished;10;families
-47;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Potia;Finished;1;families
-48;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;San Jose;Finished;14;families
-49;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;San Marcos;Finished;5;families
-50;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;San Quintin;Finished;7;families
-51;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142707;Sta. Maria;Finished;1;families
+35;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Calupaan;Finished;13;families
+36;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Namnama;Finished;18;families
+37;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;San Juan;Finished;41;families
+38;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Sto. Domingo;Finished;1;families
+39;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Caragasan;Finished;13;families
+40;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Killing;Finished;11;families
+41;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Pinto;Finished;15;families
+42;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Sta Maria;Finished;2;families
+43;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Bangar;Finished;4;families
+44;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Calimag;Finished;2;families
+45;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Dolowog;Finished;2;families
+46;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Namillangan;Finished;10;families
+47;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Potia;Finished;1;families
+48;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;San Jose;Finished;14;families
+49;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;San Marcos;Finished;5;families
+50;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;San Quintin;Finished;7;families
+51;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142707;Sta. Maria;Finished;1;families
 52;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Silagan;Finished;161;Families
 53;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Silagan;Finished;161;Families
 54;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21503;Tamboli;Finished;107;Families
 55;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21503;Tamboli;Finished;107;Families
-56;PRC;Health ;Health;First Aid Station;215;21503;Silagan;Finished;1;area
-57;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;CapanickianNS;Finished;24;families
-58;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Dagupan;Finished;67;families
-59;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Silagan;Finished;32;families
-60;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Capagaran;Finished;11;families
-61;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Iringa;Finished;26;families
-62;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Binubungan;Finished;13;families
-63;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Cataratan;Finished;44;families
-64;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Labben;Finished;23;families
-65;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21503;Dalayap;Finished;21;families
+56;PRC;Health;Health;First Aid Station;215;21503;Silagan;Finished;1;area
+57;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;CapanickianNS;Finished;24;families
+58;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Dagupan;Finished;67;families
+59;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Silagan;Finished;32;families
+60;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Capagaran;Finished;11;families
+61;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Iringa;Finished;26;families
+62;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Binubungan;Finished;13;families
+63;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Cataratan;Finished;44;families
+64;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Labben;Finished;23;families
+65;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21503;Dalayap;Finished;21;families
 66;PRC;WASH;Sanitation;Clearing operations;215;21504;Anaffatan;Finished;1;community
 67;PRC;WASH;Sanitation;Clearing operations;215;21504;Amulung West;Finished;1;community
 68;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
 69;PRC;WASH;Sanitation;Clearing operations;215;21504;Nagalasuan;Finished;1;community
 70;PRC;WASH;Sanitation;Clearing operations;215;21504;Cordova;Finished;1;community
 71;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Centro;Finished;152;families
-72;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;152;families
+72;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21504;Centro;Finished;152;families
 73;PRC;Relief;Ready-to-Eat;Biscuits;215;21504;centro;Finished;105;individuals
-74;PRC;Health ;PSS;PSP;215;21504;centro;Finished;42;individuals
-75;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;42;individuals
-76;Spanish Red Cross - AECID;WASH;Water;Water;215;21504;Cordova;Finished;5000;liters
-77;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;303;individuals
-78;PRC;Health ;Health;First Aid Station;215;21504;Centro;Finished;1;area
-79;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Dadda;Finished;93;families
-80;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;CGI;215;21504;Dadda;Finished;93;families
+74;PRC;Health;PSS;PSP;215;21504;centro;Finished;42;individuals
+75;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;42;individuals
+76;IFRC;WASH;Water;Water;215;21504;Cordova;Finished;5000;liters
+77;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;303;individuals
+78;PRC;Health;Health;First Aid Station;215;21504;Centro;Finished;1;area
+79;Metrobank;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21504;Dadda;Finished;100;families
+80;Metrobank;Shelter;Shelter Repair Assistance;CGI;215;21504;Dadda;Finished;100;families
 81;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Alituntung;Finished;116;Families
 82;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Alituntung;Finished;116;Families
-83;PRC;Health ;PSS;Welfare Desk;215;21504;Alituntung;Finished;;
+83;PRC;Health;PSS;Welfare Desk;215;21504;Alituntung;Finished;;
 84;PRC;Relief;Ready-to-Eat;Biscuits;215;21504;Alituntung;Finished;45;Individuals
-85;PRC;Health ;PSS;PSP;215;21504;Alituntung;Finished;34;Individuals
+85;PRC;Health;PSS;PSP;215;21504;Alituntung;Finished;34;Individuals
 86;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Grande;Finished;230;Families
 87;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Grande;Finished;230;Families
-88;PRC;Health ;PSS;Welfare Desk;215;21504;Pacac Grande;Finished;;
-89;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Grande;Finished;52;Individuals
+88;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Grande;Finished;;
+89;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Grande;Finished;52;Individuals
 90;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Pacac Pequeno;Finished;221;Families
 91;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Pacac Pequeno;Finished;221;Families
-92;PRC;Health ;PSS;Welfare Desk;215;21504;Pacac Pequeno;Finished;;
-93;PRC;Health ;PSS;PSP;215;21504;Pacac Pequeno;Finished;23;Individuals
-94;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Pequeno;Finished;149;Individuals
+92;PRC;Health;PSS;Welfare Desk;215;21504;Pacac Pequeno;Finished;;
+93;PRC;Health;PSS;PSP;215;21504;Pacac Pequeno;Finished;23;Individuals
+94;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Pequeno;Finished;149;Individuals
 95;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21504;Centro;Finished;25;Families
 96;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21504;Centro;Finished;25;Families
 97;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Centro;Finished;42;individuals
 98;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Grande;Finished;52;individuals
 99;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21504;Pacac Pequeno;Finished;149;individuals
-100;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;Centro;Finished;73;families
-101;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;Dodan;Finished;24;families
-102;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;Macanaya;Finished;45;families
-103;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;Minanga;Finished;18;families
-104;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;Paddaya;Finished;75;families
-105;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21505;San Antonio;Finished;84;families
+100;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;Centro;Finished;73;families
+101;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;Dodan;Finished;24;families
+102;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;Macanaya;Finished;45;families
+103;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;Minanga;Finished;18;families
+104;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;Paddaya;Finished;75;families
+105;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21505;San Antonio;Finished;84;families
 106;PRC;Assessment;Assessment;RDANA;133;13302;;Finished;1;area
 107;PRC Benguet Chapter BOD;Relief;Non-Food Items;Burner Stove with LPG tank;1411;141101;Poblacion;Finished;6;families
 108;PRC Benguet Chapter BOD;Relief;Non-Food Items;Kitchen Set (Assorted);1411;141101;Poblacion;Finished;15;families
@@ -111,15 +111,15 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 110;PRC;Assessment;Assessment;RDANA;133;13303;;Finished;1;area
 111;PRC;Assessment;Assessment;RDANA;128;12803;;Finished;1;area
 112;PRC;Assessment;Assessment;RDANA;215;21506;;Finished;1;area
-113;PRC;Health ;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;30;individuals
+113;PRC;Health;Referral;Welfare Referral;215;21506;Sta. Margarita;Finished;30;individuals
 114;IFRC;Relief;Non-Food Items;Sleeping Kit (Blankets);215;21506;Santa Margarita;Finished;100;families
 115;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);215;21506;Santa Margarita;Finished;100;families
 116;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);215;21506;Santa Margarita;Finished;100;families
 117;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Santa Margarita;Finished;100;families
 118;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Santa Margarita;Finished;100;families
 119;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Santa Margarita;Finished;100;families
-120;PRC;Health ;PSS;PSP;215;21506;Santa Margarita;Finished;491;individuals
-121;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Sta. Margarita;Finished;5000;liters
+120;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;491;individuals
+121;IFRC;WASH;Water;Water;215;21506;Sta. Margarita;Finished;5000;liters
 122;IFRC;Relief;Non-Food Items;Sleeping Kit (Blankets);215;21506;Santa Margarita;Finished;300;families
 123;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);215;21506;Santa Margarita;Finished;300;families
 124;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);215;21506;Santa Margarita;Finished;300;families
@@ -132,76 +132,76 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 131;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21506;Awallan;Finished;363;families
 132;IFRC;WASH;Non-Food Items;Jerry Cans;215;21506;Awallan;Finished;363;families
 133;IFRC;Relief;Non-Food Items;Tarpaulins;215;21506;Awallan;Finished;363;families
-134;PRC;Health ;PSS;PSP;215;21506;Awallan;Finished;362;individuals
-135;PRC;Health ;PSS;PSP;215;21506;Santa Margarita;Finished;398;individuals
-136;PRC;Health ;RFL;RFL (I am Alive);215;21506;Sta. Margarita;Finished;50;individuals
+134;PRC;Health;PSS;PSP;215;21506;Awallan;Finished;362;individuals
+135;PRC;Health;PSS;PSP;215;21506;Santa Margarita;Finished;398;individuals
+136;PRC;Health;RFL;RFL (I am Alive);215;21506;Sta. Margarita;Finished;50;individuals
 137;Spanish Red Cross - AECID;WASH;Water;Water Bladder 5,000;215;21506;;Finished;1;units
-138;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-139;PRC;Health ;PSS;Welfare Desk;215;21506;Bitag Grande;Finished;;
+138;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+139;PRC;Health;PSS;Welfare Desk;215;21506;Bitag Grande;Finished;;
 140;PRC;Relief;Ready-to-Eat;Hot Meals;215;21506;Bitag Grande;Finished;678;individuals
-141;PRC;Health ;PSS;PSP;215;21506;Bitag Grande;Finished;1376;individuals
-142;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-143;PRC;Health ;Health;First Aid;215;21506;Bitag Grande;Finished;1;individuals
+141;PRC;Health;PSS;PSP;215;21506;Bitag Grande;Finished;1376;individuals
+142;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+143;PRC;Health;Health;First Aid;215;21506;Bitag Grande;Finished;1;individuals
 144;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;33;families
-145;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;33;families
+145;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;33;families
 146;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Mocag;Finished;162;families
 147;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;Shelter Tool Kits;215;21506;Bitag Grande;Finished;220;families
-148;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;CGI;215;21506;Mocag;Finished;162;families
-149;Qatar Red Crescent Society;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;220;families
+148;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Mocag;Finished;162;families
+149;IFRC;Shelter;Shelter Repair Assistance;CGI;215;21506;Bitag Grande;Finished;220;families
 150;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Blankets);215;21506;Adaog;Finished;260;families
 151;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);215;21506;Adaog;Finished;260;families
 152;Qatar Red Crescent Society;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);215;21506;Adaog;Finished;260;families
 153;Qatar Red Crescent Society;WASH;Non-Food Items;Hygiene Kit;215;21506;Adaog;Finished;260;families
 154;Qatar Red Crescent Society;WASH;Non-Food Items;Jerry Cans;215;21506;Adaog;Finished;260;families
 155;Qatar Red Crescent Society;Relief;Non-Food Items;Tarpaulins;215;21506;Adaog;Finished;260;families
-156;PRC;Health ;PSS;Welfare Desk;215;21506;Adaog;Finished;1;Evacuation Center
-157;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Adaog;Finished;210;individuals
-158;PRC;Health ;Health;First Aid Station;215;21506;Adaog;Finished;1;area
-159;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;625;individuals
-160;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;395;individuals
-161;PRC;Health ;Health;First Aid Station;215;21506;Bitag Grande;Finished;1;area
-162;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
-163;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;5475;liters
-164;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;24;families
-165;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;45;families
-166;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Asassi;Finished;31;families
-167;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;43;families
-168;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;1400;liters
-169;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Temblique;Finished;2475;liters
-170;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;625;liters
-171;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Brgy Assasi;Finished;3200;liters
-172;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3300;liters
-173;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
-174;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;600;liters
-175;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
-176;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;75;liters
-177;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;2025;liters
-178;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;4125;liters
-179;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;150;liters
-180;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;575;liters
-181;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;350;liters
-182;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2625;liters
-183;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1325;liters
-184;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1975;liters
-185;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2525;liters
-186;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;900;liters
-187;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;2175;liters
-188;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;2100;liters
-189;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;525;liters
-190;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1225;liters
-191;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;375;liters
-192;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;400;liters
-193;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1550;liters
-194;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1625;liters
-195;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;1400;liters
-196;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Assasi;Finished;3100;liters
-197;PRC;Health ;Health;First Aid Station;215;21506;Tamboli;Finished;1;area
-198;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;300;liters
-199;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1100;liters
-200;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1000;liters
-201;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Temblique;Finished;1900;liters
-202;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;San Jose;Finished;3000;liters
-203;Spanish Red Cross - AECID;WASH;Water;Water;215;21506;Bitag Grande;Finished;1205;liters
+156;PRC;Health;PSS;Welfare Desk;215;21506;Adaog;Finished;1;Evacuation Center
+157;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Adaog;Finished;210;individuals
+158;PRC;Health;Health;First Aid Station;215;21506;Adaog;Finished;1;area
+159;IFRC;WASH;Water;Water;215;21506;Asassi;Finished;625;individuals
+160;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;395;individuals
+161;PRC;Health;Health;First Aid Station;215;21506;Bitag Grande;Finished;1;area
+162;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
+163;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;5475;liters
+164;IFRC;WASH;Water;Water;215;21506;Asassi;Finished;24;families
+165;IFRC;WASH;Water;Water;215;21506;Asassi;Finished;45;families
+166;IFRC;WASH;Water;Water;215;21506;Asassi;Finished;31;families
+167;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;43;families
+168;IFRC;WASH;Water;Water;215;21506;Brgy Temblique;Finished;1400;liters
+169;IFRC;WASH;Water;Water;215;21506;Brgy Temblique;Finished;2475;liters
+170;IFRC;WASH;Water;Water;215;21506;Brgy Assasi;Finished;625;liters
+171;IFRC;WASH;Water;Water;215;21506;Brgy Assasi;Finished;3200;liters
+172;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;3300;liters
+173;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
+174;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;600;liters
+175;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;150;liters
+176;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;75;liters
+177;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;2025;liters
+178;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;4125;liters
+179;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;150;liters
+180;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;575;liters
+181;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;350;liters
+182;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;2625;liters
+183;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1325;liters
+184;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1975;liters
+185;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;2525;liters
+186;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;900;liters
+187;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;2175;liters
+188;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;2100;liters
+189;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;525;liters
+190;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;1225;liters
+191;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;375;liters
+192;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;400;liters
+193;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;1550;liters
+194;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;1625;liters
+195;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;1400;liters
+196;IFRC;WASH;Water;Water;215;21506;Assasi;Finished;3100;liters
+197;PRC;Health;Health;First Aid Station;215;21506;Tamboli;Finished;1;area
+198;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;300;liters
+199;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1100;liters
+200;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;1000;liters
+201;IFRC;WASH;Water;Water;215;21506;Temblique;Finished;1900;liters
+202;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;3000;liters
+203;IFRC;WASH;Water;Water;215;21506;Bitag Grande;Finished;1205;liters
 204;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21506;San Jose;Finished;50;Families
 205;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21506;San Jose;Finished;50;Families
 206;IFRC;WASH;Water;Water;215;21506;San Jose;Finished;5000;liters
@@ -224,7 +224,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 223;Qatar Red Crescent Society;WASH;Non-Food Items;Hygiene Kit;215;21506;Agaman Sur;Finished;234;families
 224;Qatar Red Crescent Society;WASH;Non-Food Items;Jerry Cans;215;21506;Agaman Sur;Finished;234;families
 225;Qatar Red Crescent Society;Relief;Non-Food Items;Tarpaulins;215;21506;Agaman Sur;Finished;234;families
-226;PRC;Health ;PSS;Welfare Desk;215;21506;Sta Margarita;Finished;;
+226;PRC;Health;PSS;Welfare Desk;215;21506;Sta Margarita;Finished;;
 227;PRC;Relief;Ready-to-Eat;Biscuits;215;21506;Sta. Margarita;Finished;600;individuals
 228;PRC;Relief;Ready-to-Eat;Biscuits;215;21506;Sta. Margarita;Finished;200;individuals
 229;PRC;Relief;Ready-to-Eat;Biscuits;215;21506;Awallan;Finished;1000;individuals
@@ -235,12 +235,12 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 234;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Awallan;Finished;233;individuals
 235;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Adaoag;Finished;136;individuals
 236;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21506;Bitag Grande;Finished;251;individuals
-237;PRC;Health ;Health;Blood Units;1411;141102;;Finished;2;unit
+237;PRC;Health;Health;Blood Units;1411;141102;;Finished;2;unit
 238;PRC;Relief;Non-Food Items;Towels;1411;141102;Sto Tomas;Finished;25;families
 239;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;4;families
 240;PRC;Relief;Non-Food Items;Towels;1411;141102;City Camp;Finished;51;families
 241;PRC;Relief;Non-Food Items;Towels;1411;141102;Loakan;Finished;8;families
-242;PRC;Health ;PSS;PSP;1411;141102;Sto. Tomas;Finished;11;individuals
+242;PRC;Health;PSS;PSP;1411;141102;Sto. Tomas;Finished;11;individuals
 243;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Roxas;Finished;57;individuals
 244;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;;Finished;132;individuals
 245;PRC;Relief;Ready-to-Eat;Hot Meals;1411;141102;Loakan;Finished;24;individuals
@@ -256,15 +256,15 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 255;PRC;Protection;Child Protection;Child Protection Orientation;1411;141102;Camp 7;Finished;109;individuals
 256;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Brookespoint;Finished;20;individuals
 257;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Camp 7;Finished;108;individuals
-258;PRC;Health ;PSS;PSP;1411;141102;Brgy Upper Quezon Hill;Finished;2;individuals
+258;PRC;Health;PSS;PSP;1411;141102;Brgy Upper Quezon Hill;Finished;2;individuals
 259;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Sto. Rosario;Finished;119;individuals
 260;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;GEFA;Finished;30;individuals
 261;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Middle Quirino Hill Day Care Center;Finished;19;individuals
 262;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Lower Rock Quarry;Finished;74;individuals
-263;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;45;individuals
-264;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;29;individuals
-265;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;79;individuals
-266;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;;Finished;62;individuals
+263;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;45;individuals
+264;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;29;individuals
+265;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;Loakan;Finished;79;individuals
+266;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141102;;Finished;62;individuals
 267;PRC;Relief;Food Items;Food Items (Standard);1411;141102;Camp 7;Finished;240;families
 268;PRC;Relief;Food Items;Food Items (Standard);1411;141102;Guisad Surong;Finished;4;families
 269;PRC;Relief;Food Items;Food Items (Standard);1411;141102;KM 4 Asin Road;Finished;18;families
@@ -285,23 +285,23 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 284;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143201;;Finished;157;families
 285;PRC;Relief;Food Items;Food Items (Standard);1432;143201;Gawa-an;Finished;197;families
 286;PRC;Assessment;Assessment;RDANA;1427;142701;;Finished;1;area
-287;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Amganad;Finished;19;families
-288;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Anaba;Finished;29;families
-289;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Balawis;Finished;2;families
-290;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Banao;Finished;13;families
-291;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Bangaan;Finished;20;families
-292;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Bocos;Finished;35;families
-293;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Cambulo;Finished;22;families
-294;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Ducligan;Finished;26;families
-295;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Gohang;Finished;14;families
-296;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Kinakin;Finished;20;families
-297;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Poblacion;Finished;50;families
-298;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Poitan;Finished;25;families
-299;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Pula;Finished;18;families
-300;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;San Fernando;Finished;5;families
-301;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Tam-an;Finished;12;families
-302;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;Uhaj;Finished;15;families
-303;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142701;View Point;Finished;33;families
+287;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Amganad;Finished;19;families
+288;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Anaba;Finished;29;families
+289;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Balawis;Finished;2;families
+290;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Banao;Finished;13;families
+291;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Bangaan;Finished;20;families
+292;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Bocos;Finished;35;families
+293;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Cambulo;Finished;22;families
+294;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Ducligan;Finished;26;families
+295;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Gohang;Finished;14;families
+296;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Kinakin;Finished;20;families
+297;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Poblacion;Finished;50;families
+298;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Poitan;Finished;25;families
+299;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Pula;Finished;18;families
+300;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;San Fernando;Finished;5;families
+301;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Tam-an;Finished;12;families
+302;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;Uhaj;Finished;15;families
+303;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142701;View Point;Finished;33;families
 304;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142701;Amganad;Finished;22;families
 305;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142701;Balawis;Finished;2;families
 306;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1427;142701;Banao;Finished;3;families
@@ -325,20 +325,20 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 324;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;129;12903;;Finished;2;families
 325;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;129;12903;;Finished;2;families
 326;PRC;Relief;Ready-to-Eat;Hot Meals;410;41005;;Finished;500;individuals
-327;PRC;Health ;Health;Blood Pressure;410;41005;;Finished;30;individuals
+327;PRC;Health;Health;Blood Pressure;410;41005;;Finished;30;individuals
 328;PRC;Relief;Ready-to-Eat;Biscuits;133;13307;Calumbaya;Finished;374;individuals
 329;PRC;Relief;Ready-to-Eat;Hot Meals;250;25005;Bonfal West Proper;Finished;289;individuals
 330;PRC;Assessment;Assessment;RDANA;1444;144403;;Finished;1;area
-331;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Ambuklao;Finished;14;families
-332;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Bila;Finished;15;families
-333;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Bobok-Bisal;Finished;12;families
-334;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Daclan;Finished;10;families
-335;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Ekip;Finished;13;families
-336;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Karao;Finished;3;families
-337;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Nawal;Finished;4;families
-338;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Pito;Finished;2;families
-339;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Poblacion;Finished;1;families
-340;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141104;Tikey;Finished;12;families
+331;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Ambuklao;Finished;14;families
+332;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Bila;Finished;15;families
+333;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Bobok-Bisal;Finished;12;families
+334;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Daclan;Finished;10;families
+335;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Ekip;Finished;13;families
+336;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Karao;Finished;3;families
+337;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Nawal;Finished;4;families
+338;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Pito;Finished;2;families
+339;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Poblacion;Finished;1;families
+340;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141104;Tikey;Finished;12;families
 341;PRC;Relief;Ready-to-Eat;Biscuits;371;37101;Parel;Finished;29;individuals
 342;PRC;Assessment;Assessment;RDANA;1401;140103;;Finished;1;area
 343;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140103;;Finished;7;families
@@ -351,26 +351,26 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 350;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140103;;Finished;3;families
 351;PRC;Assessment;Assessment;RDANA;215;21508;;Finished;1;area
 352;PRC;Assessment;Assessment;RDANA;1411;141105;;Finished;1;area
-353;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Abatan;Finished;4;families
-354;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Amgaleyguey;Finished;7;families
-355;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Amlimay;Finished;6;families
-356;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Baculongan Norte;Finished;26;families
-357;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Baculongan Sur;Finished;4;families
-358;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Bangao;Finished;4;families
-359;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Buyacaoan;Finished;34;families
-360;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Catlubong;Finished;18;families
-361;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Lengaoan;Finished;16;families
-362;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Loo;Finished;19;families
-363;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Natubleng;Finished;10;families
-364;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Poblacion;Finished;75;families
-365;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141105;Sebang;Finished;6;families
+353;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Abatan;Finished;4;families
+354;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Amgaleyguey;Finished;7;families
+355;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Amlimay;Finished;6;families
+356;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Baculongan Norte;Finished;26;families
+357;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Baculongan Sur;Finished;4;families
+358;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Bangao;Finished;4;families
+359;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Buyacaoan;Finished;34;families
+360;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Catlubong;Finished;18;families
+361;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Lengaoan;Finished;16;families
+362;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Loo;Finished;19;families
+363;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Natubleng;Finished;10;families
+364;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Poblacion;Finished;75;families
+365;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141105;Sebang;Finished;6;families
 366;PRC;Relief;Ready-to-Eat;Biscuits;133;13309;Poblacion Norte;Finished;292;individuals
 367;PRC;Assessment;Assessment;RDANA;133;13309;;Finished;1;area
 368;PRC;Relief;Food Items;Food Items (Standard);133;13309;Santiago Norte;Finished;137;families
 369;PRC;Relief;Food Items;Food Items (Standard);133;13309;Wenceslao;Finished;102;families
 370;PRC;Assessment;Assessment;RDANA;231;23106;;Finished;1;area
 371;PRC;Relief;Ready-to-Eat;Hot Meals;231;23106;San Pablo;Finished;605;individuals
-372;PRC;Health ;PSS;PSP;231;23106;Casibarag;Finished;605;individuals
+372;PRC;Health;PSS;PSP;231;23106;Casibarag;Finished;605;individuals
 373;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blankets);231;23106;Anao;Finished;10;families
 374;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);231;23106;Anao;Finished;10;families
 375;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);231;23106;Anao;Finished;10;families
@@ -435,10 +435,10 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 434;PRC;Relief;Food Items;Food Items (Standard);1481;148101;Elena;Finished;50;families
 435;Philippine Red Cross;Relief;Food Items;Food Items (Standard);1481;148101;Elena;Finished;130;families
 436;PRC;SRR;Rescue;Rescued/Assisted;1375;137501;Barangay 102;Finished;1;individuals
-437;PRC;Health ;PSS;PSP;314;31407;Poblacion;Finished;44;individuals
-438;PRC;Health ;PSS;PSP;314;31407;Sapang Bayan;Finished;63;individuals
-439;PRC;Health ;PSS;PSP;314;31407;Meysulao;Finished;49;individuals
-440;PRC;Health ;PSS;PSP;314;31407;San Miguel;Finished;75;individuals
+437;PRC;Health;PSS;PSP;314;31407;Poblacion;Finished;44;individuals
+438;PRC;Health;PSS;PSP;314;31407;Sapang Bayan;Finished;63;individuals
+439;PRC;Health;PSS;PSP;314;31407;Meysulao;Finished;49;individuals
+440;PRC;Health;PSS;PSP;314;31407;San Miguel;Finished;75;individuals
 441;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Poblacion;Finished;44;individuals
 442;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Sapang Bayan;Finished;63;individuals
 443;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;Meysulao;Finished;49;individuals
@@ -448,48 +448,48 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 447;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;Meysulao;Finished;129;individuals
 448;PRC;Relief;Ready-to-Eat;Hot Meals;314;31407;San Miguel;Finished;159;individuals
 449;PRC;Assessment;Assessment;RDANA;215;21510;;Finished;1;area
-450;PRC;Health ;PSS;PSP;369;36903;Poblacion;Finished;55;individuals
+450;PRC;Health;PSS;PSP;369;36903;Poblacion;Finished;55;individuals
 451;PRC;Relief;Food Items;Food Items (Standard);369;36903;Poblacion;Finished;30;families
 452;PRC;Relief;Ready-to-Eat;Biscuits;369;36903;Poblacion;Finished;117;individuals
 453;PRC;Relief;Ready-to-Eat;Bread;369;36903;Poblacion;Finished;120;individuals
 454;PRC;Relief;Ready-to-Eat;Hot Meals;371;37103;Binabalian;Finished;287;individuals
 455;PRC;Relief;Ready-to-Eat;Hot Meals;371;37104;Balabay;Finished;158;individuals
 456;PRC;Relief;Ready-to-Eat;Hot Meals;155;15503;;Finished;1640;individuals
-457;PRC;Health ;PSS;Welfare Desk;155;15503;;Finished;;
+457;PRC;Health;PSS;Welfare Desk;155;15503;;Finished;;
 458;PRC;Assessment;Assessment;RDANA;128;12805;;Finished;1;area
 459;PRC;Assessment;Assessment;RDANA;129;12906;;Finished;1;area
 463;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;220;individuals
 464;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;250;individuals
 465;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137402;;Finished;225;individuals
-466;PRC;Health ;PSS;PSP;1374;137402;Malanday;Finished;300;individuals
-467;PRC;Health ;PSS;PSP;1374;137402;Concepcion  Uno;Finished;500;individuals
-468;PRC;Health ;PSS;PSP;1374;137402;Nangka;Finished;509;individuals
+466;PRC;Health;PSS;PSP;1374;137402;Malanday;Finished;300;individuals
+467;PRC;Health;PSS;PSP;1374;137402;Concepcion Uno;Finished;500;individuals
+468;PRC;Health;PSS;PSP;1374;137402;Nangka;Finished;509;individuals
 469;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Buli;Finished;187;individuals
 470;PRC;Relief;Ready-to-Eat;Hot Meals;1376;137603;Cupang;Finished;1435;individuals
 471;PRC;Relief;Ready-to-Eat;Biscuits;1375;137503;;Finished;83;individuals
-472;PRC;Health ;PSS;Welfare Desk;133;13314;San Agustin;Finished;;
+472;PRC;Health;PSS;Welfare Desk;133;13314;San Agustin;Finished;;
 473;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;San Agustin;Finished;227;individuals
-474;PRC;Health ;Health;First Aid;133;13314;San Agustin;Finished;5;individuals
-475;PRC;Health ;Health;Blood Units;133;13314;Carlatan;Finished;7;units
-476;PRC;Health ;PSS;PSP;133;13314;San Agustin;Finished;92;individuals
-477;PRC;Health ;PSS;Welfare Desk;133;13314;;Finished;;
+474;PRC;Health;Health;First Aid;133;13314;San Agustin;Finished;5;individuals
+475;PRC;Health;Health;Blood Units;133;13314;Carlatan;Finished;7;units
+476;PRC;Health;PSS;PSP;133;13314;San Agustin;Finished;92;individuals
+477;PRC;Health;PSS;Welfare Desk;133;13314;;Finished;;
 478;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;37;individuals
 479;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;25;individuals
 480;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Sevilla;Finished;196;individuals
 481;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;San Francisco;Finished;113;individuals
 482;PRC;Relief;Ready-to-Eat;Hot Meals;133;13314;Poro;Finished;21;individuals
 483;PRC;Relief;Ready-to-Eat;Hot Meals;1374;137405;;Finished;183;individuals
-484;PRC;Health ;PSS;Welfare Desk;231;23135;;Finished;;
+484;PRC;Health;PSS;Welfare Desk;231;23135;;Finished;;
 485;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1432;143213;;Finished;5;families
 486;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1432;143213;Bulanao;Finished;5;families
 487;PRC;Assessment;Assessment;RDANA;1432;143213;;Finished;1;area
 488;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143213;Laya West;Finished;117;individuals
 489;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143213;Cabaruan;Finished;228;individuals
-490;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1432;143213;Cudal;Finished;311;families
-491;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1432;143213;Laya West;Finished;105;families
-492;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1432;143213;malin-awa;Finished;161;families
-493;PRC;Health ;PSS;PSP;1432;143213;Laya West;Finished;66;individuals
-494;PRC;Health ;PSS;PSP;1432;143213;Cabaruan;Finished;75;individuals
+490;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1432;143213;Cudal;Finished;311;families
+491;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1432;143213;Laya West;Finished;105;families
+492;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1432;143213;malin-awa;Finished;161;families
+493;PRC;Health;PSS;PSP;1432;143213;Laya West;Finished;66;individuals
+494;PRC;Health;PSS;PSP;1432;143213;Cabaruan;Finished;75;individuals
 495;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143213;Socbot;Finished;368;individuals
 496;PRC;Assessment;Assessment;RDANA;215;21511;;Finished;1;area
 497;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148102;Mawige;Finished;56;families
@@ -521,8 +521,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 523;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;;Finished;461;individuals
 524;PRC;Relief;Ready-to-Eat;Biscuits;231;23118;Ragan;Finished;212;individuals
 525;PRC;Relief;Ready-to-Eat;Hot Meals;231;23118;Ragan;Finished;212;individuals
-526;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;;Finished;461;individuals
-527;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;Ragan;Finished;212;individuals
+526;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;;Finished;461;individuals
+527;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23118;Ragan;Finished;212;individuals
 528;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Blankets);231;23118;Calinaoan;Finished;5;families
 529;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);231;23118;Calinaoan;Finished;5;families
 530;Australian DFAT;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);231;23118;Calinaoan;Finished;5;families
@@ -576,88 +576,88 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 578;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148103;Poblacion East;Finished;133;families
 579;PRC;Relief;Food Items;Food Items (Standard);1481;148103;Balasi;Finished;51;families
 580;PRC;Assessment;Assessment;RDANA;215;21513;;Finished;1;area
-581;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;10000;liters
-582;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;12000;liters
-583;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;12000;liters
-584;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;7000;liters
-585;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;7000;liters
-586;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
-587;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
-588;PRC;Health ;PSS;Welfare Desk;215;21513;San Vicente;Finished;;
+581;IFRC;WASH;Water;Water;215;21513;Centro Norte;Finished;10000;liters
+582;IFRC;WASH;Water;Water;215;21513;Centro Norte;Finished;12000;liters
+583;IFRC;WASH;Water;Water;215;21513;San Vicente;Finished;12000;liters
+584;IFRC;WASH;Water;Water;215;21513;Centro Norte;Finished;7000;liters
+585;IFRC;WASH;Water;Water;215;21513;San Vicente;Finished;7000;liters
+586;IFRC;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
+587;IFRC;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
+588;PRC;Health;PSS;Welfare Desk;215;21513;San Vicente;Finished;;
 589;PRC;Relief;Ready-to-Eat;Hot Meals;215;21513;San Vicente;Finished;588;individuals
-590;PRC;Health ;PSS;PSP;215;21513;San Vicente;Finished;1196;individuals
-591;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
-592;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;4000;liters
+590;PRC;Health;PSS;PSP;215;21513;San Vicente;Finished;1196;individuals
+591;IFRC;WASH;Water;Water;215;21513;Centro Norte;Finished;5000;liters
+592;IFRC;WASH;Water;Water;215;21513;San Vicente;Finished;4000;liters
 593;IFRC;Relief;Non-Food Items;Sleeping Kit (Blankets);215;21513;San Vicente;Finished;355;families
 594;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);215;21513;San Vicente;Finished;355;families
 595;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);215;21513;San Vicente;Finished;355;families
 596;IFRC;WASH;Non-Food Items;Hygiene Kit;215;21513;San Vicente;Finished;355;families
 597;IFRC;WASH;Non-Food Items;Jerry Cans;215;21513;San Vicente;Finished;355;families
 598;IFRC;Relief;Non-Food Items;Tarpaulins;215;21513;San Vicente;Finished;355;families
-599;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
-600;Spanish Red Cross - AECID;WASH;Water;Water;215;21513;Centro norte;Finished;1000;liters
-601;PRC;Health ;Health;First Aid Station;215;21513;San Vicente;Finished;1;area
+599;IFRC;WASH;Water;Water;215;21513;San Vicente;Finished;5000;liters
+600;IFRC;WASH;Water;Water;215;21513;Centro norte;Finished;1000;liters
+601;PRC;Health;Health;First Aid Station;215;21513;San Vicente;Finished;1;area
 602;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21513;Tanglagan;Finished;293;Families
 603;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21513;Tanglagan;Finished;293;Families
-604;PRC;Health ;PSS;Welfare Desk;215;21513;Tanglagan;Finished;;
-605;PRC;Health ;Health;First Aid Station;215;21513;Tanglagan;Finished;1;area
+604;PRC;Health;PSS;Welfare Desk;215;21513;Tanglagan;Finished;;
+605;PRC;Health;Health;First Aid Station;215;21513;Tanglagan;Finished;1;area
 606;PRC;Relief;Ready-to-Eat;Biscuits;215;21513;San Vicente;Finished;588;individuals
-607;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 50,000);215;21513;Baracaoit;Finished;25;Households
-608;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 50,000);215;21513;Mabuno;Finished;39;Households
-609;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 50,000);215;21513;Naddungan;Finished;19;Households
-610;IFRC;Shelter;Cash;Conditional Cash Grant (PHP 50,000);215;21513;Basao;Finished;20;Households
-611;PRC;Health ;PSS;PSP;215;21514;Centro;Finished;1050;individuals
-612;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21514;Centro;Finished;200;individuals
-613;PRC;Health ;Health;First Aid;215;21514;Centro;Finished;1;individuals
-614;PRC;Health ;Health;Blood Pressure;215;21514;Centro;Finished;300;individuals
-615;PRC;Health ;Referral;Health Referral;215;21514;Centro;Finished;30;individuals
+607;IFRC;Shelter;Cash;Conditional Cash Grant (50,000);215;21513;Baracaoit;Finished;25;Households
+608;IFRC;Shelter;Cash;Conditional Cash Grant (50,000);215;21513;Mabuno;Finished;39;Households
+609;IFRC;Shelter;Cash;Conditional Cash Grant (50,000);215;21513;Naddungan;Finished;19;Households
+610;IFRC;Shelter;Cash;Conditional Cash Grant (50,000);215;21513;Basao;Finished;20;Households
+611;PRC;Health;PSS;PSP;215;21514;Centro;Finished;1050;individuals
+612;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21514;Centro;Finished;200;individuals
+613;PRC;Health;Health;First Aid;215;21514;Centro;Finished;1;individuals
+614;PRC;Health;Health;Blood Pressure;215;21514;Centro;Finished;300;individuals
+615;PRC;Health;Referral;Health Referral;215;21514;Centro;Finished;30;individuals
 616;PRC;Relief;Ready-to-Eat;Biscuits;215;21514;Centro;Finished;2498;individuals
-617;PRC;Health ;PSS;Welfare Desk;215;21514;Centro;Finished;;
-618;PRC;Health ;Referral;Welfare Referral;215;21514;Centro;Finished;50;individuals
-619;PRC;Health ;RFL;Tracing;215;21514;Centro;Finished;2;individuals
-620;PRC;Health ;RFL;RFL (I am Alive);215;21514;Centro;Finished;6;individuals
-621;PRC;Health ;PSS;PSP;215;21514;Centro;FInished;750;individuals
+617;PRC;Health;PSS;Welfare Desk;215;21514;Centro;Finished;;
+618;PRC;Health;Referral;Welfare Referral;215;21514;Centro;Finished;50;individuals
+619;PRC;Health;RFL;Tracing;215;21514;Centro;Finished;2;individuals
+620;PRC;Health;RFL;RFL (I am Alive);215;21514;Centro;Finished;6;individuals
+621;PRC;Health;PSS;PSP;215;21514;Centro;FInished;750;individuals
 622;PRC;Assessment;Assessment;RDANA;215;21514;;Finished;1;area
-623;PRC;Health ;Health;First Aid Station;215;21514;Centro;Finished;1;area
-624;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Amunitan;Finished;22;families
-625;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Batangan;Finished;29;families
-626;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Baua;Finished;12;families
-627;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Calayan;Finished;11;families
-628;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Callo;Finished;18;families
-629;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Caroan;Finished;21;families
-630;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Casitan;Finished;14;families
-631;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Dungen;Finished;1;families
-632;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Flourishing;Finished;10;families
-633;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Ipil;Finished;18;families
-634;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Isca;Finished;15;families
-635;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Minanga;Finished;11;families
-636;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Paradise;Finished;14;families
-637;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Progressive;Finished;11;families
-638;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Rebecca;Finished;17;families
-639;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;San Jose;Finished;11;families
-640;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Santa Ana;Finished;1;families
-641;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Santa Cruz;Finished;9;families
-642;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Smart;Finished;10;families
-643;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21514;Tapel;Finished;50;families
-644;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Bitu;Finished;1;families
-645;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Cababuyan North;Finished;10;families
-646;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Mompolia;Finished;1;families
-647;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Namulditan;Finished;6;families
-648;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;O-ong;Finished;2;families
-649;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Pitawan;Finished;2;families
-650;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Piwong;Finished;2;families
-651;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Southern Cababuyan;Finished;1;families
-652;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Ubuag;Finished;2;families
-653;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142709;Umalbong;Finished;1;families
+623;PRC;Health;Health;First Aid Station;215;21514;Centro;Finished;1;area
+624;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Amunitan;Finished;22;families
+625;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Batangan;Finished;29;families
+626;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Baua;Finished;12;families
+627;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Calayan;Finished;11;families
+628;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Callo;Finished;18;families
+629;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Caroan;Finished;21;families
+630;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Casitan;Finished;14;families
+631;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Dungen;Finished;1;families
+632;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Flourishing;Finished;10;families
+633;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Ipil;Finished;18;families
+634;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Isca;Finished;15;families
+635;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Minanga;Finished;11;families
+636;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Paradise;Finished;14;families
+637;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Progressive;Finished;11;families
+638;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Rebecca;Finished;17;families
+639;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;San Jose;Finished;11;families
+640;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Santa Ana;Finished;1;families
+641;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Santa Cruz;Finished;9;families
+642;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Smart;Finished;10;families
+643;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21514;Tapel;Finished;50;families
+644;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Bitu;Finished;1;families
+645;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Cababuyan North;Finished;10;families
+646;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Mompolia;Finished;1;families
+647;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Namulditan;Finished;6;families
+648;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;O-ong;Finished;2;families
+649;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Pitawan;Finished;2;families
+650;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Piwong;Finished;2;families
+651;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Southern Cababuyan;Finished;1;families
+652;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Ubuag;Finished;2;families
+653;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142709;Umalbong;Finished;1;families
 654;PRC;Assessment;Assessment;RDANA;215;21515;;Finished;1;area
-655;PRC;Health ;Health;First Aid Station;215;21515;Baculud;Finished;1;area
-656;PRC;Health ;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
+655;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
+656;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
 657;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;Baculud;Finished;303;families
 658;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;Baculud;Finished;303;families
-659;PRC;Health ;PSS;Welfare Desk;215;21515;Baculud;Finished;1;Evacuation Center
-660;PRC;Health ;Health;First Aid Station;215;21515;Baculud;Finished;1;area
-661;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21515;San Vicente;Finished;303;individuals
-662;PRC;Health ;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
+659;PRC;Health;PSS;Welfare Desk;215;21515;Baculud;Finished;1;Evacuation Center
+660;PRC;Health;Health;First Aid Station;215;21515;Baculud;Finished;1;area
+661;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21515;San Vicente;Finished;303;individuals
+662;PRC;Health;Health;First Aid Station;215;21515;San Vicente;Finished;1;area
 663;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21515;San Vicente;Finished;303;families
 664;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21515;San Vicente;Finished;303;families
 665;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21515;San Vicente;Finished;303;individuals
@@ -665,71 +665,71 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 667;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
 668;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;San Vicente;Finished;33;individuals
 669;PRC;Relief;Ready-to-Eat;Biscuits;231;23114;Bagumbayan;Finished;140;individuals
-670;PRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23114;Guinatan;Finished;32;individuals
+670;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;231;23114;Guinatan;Finished;32;individuals
 671;PRC;Assessment;Assessment;RDANA;231;23114;;Finished;1;area
 672;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;San Vicente;Finished;33;individuals
 673;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;Bagumbayan;Finished;140;individuals
 674;PRC;Relief;Ready-to-Eat;Hot Meals;231;23114;;Finished;293;individuals
-675;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141106;Tuding;Finished;282;families
-676;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;10000;liters
-677;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
-678;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;1;area
+675;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1411;141106;Ampucao;Finished;149;families
+676;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1411;141106;Ampucao;Finished;149;families
+677;PRC;Relief;Non-Food Items;Non Food Items (Assorted);1411;141106;Tuding;Finished;282;families
+678;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;10000;liters
 679;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
-680;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;4000;liters
-681;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Ucab;Finished;1;community
-682;PRC;Health ;PSS;Welfare Desk;1411;141106;Tuding;Finished;;
+680;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;1;area
+681;PRC;Assessment;Assessment;RDANA;1411;141106;;Finished;1;area
+682;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;4000;liters
 683;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Ucab;Finished;1;community
-684;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;10000;liters
-685;PRC;Health ;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
-686;PRC;Health ;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
-687;PRC;Health ;PSS;Welfare Desk;1411;141106;Tuding;Finished;;
-688;PRC;Health ;PSS;PSP;1411;141106;Tuding;Finished;269;individuals
-689;PRC;Health ;PSS;PSP;1411;141106;Tuding;Finished;302;individuals
-690;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
-691;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;6800;liters
-692;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;460;liters
-693;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;1280;liters
-694;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Midas;Finished;1;community
-695;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;5;Individuals
-696;PRC;Health ;PSS;PSP;1411;141106;Tuding;Finished;8;Individuals
-697;PRC;Health ;PSS;PSP;1411;141106;Tuding;Finished;7;Individuals
-698;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
-699;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;6375;liters
-700;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;Individuals
-701;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Tuding;Finished;28;Individuals
-702;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
-703;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
-704;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;30;individuals
-705;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;81;individuals
-706;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Tuding;Finished;346;individuals
-707;PRC;Health ;PSS;PSP;1411;141106;Tuding;Finished;60;individuals
-708;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;44;individuals
-709;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;122;individuals
-710;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;49;individuals
-711;PRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;350;individuals
-712;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
-713;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
-714;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;Ucab;Finished;;
-715;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
-716;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
-717;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
+684;PRC;Health;PSS;Welfare Desk;1411;141106;Tuding;Finished;;
+685;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Ucab;Finished;1;community
+686;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;10000;liters
+687;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
+688;PRC;Health;PSS;Welfare Desk;1411;141106;Ucab;Finished;;
+689;PRC;Health;PSS;Welfare Desk;1411;141106;Tuding;Finished;;
+690;PRC;Health;PSS;PSP;1411;141106;Tuding;Finished;269;individuals
+691;PRC;Health;PSS;PSP;1411;141106;Tuding;Finished;302;individuals
+692;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
+693;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;6800;liters
+694;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;460;liters
+695;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;1280;liters
+696;PRC;SRR;Retrieval;Retrieval and Clearing operations;1411;141106;Midas;Finished;1;community
+697;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;5;Individuals
+698;PRC;Health;PSS;PSP;1411;141106;Tuding;Finished;8;Individuals
+699;PRC;Health;PSS;PSP;1411;141106;Tuding;Finished;7;Individuals
+700;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
+701;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Tuding;Finished;6375;liters
+702;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;Individuals
+703;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Tuding;Finished;28;Individuals
+704;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
+705;Spanish Red Cross - AECID;WASH;Water;Water;1411;141106;Ucab;Finished;6375;liters
+706;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;30;individuals
+707;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;81;individuals
+708;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Tuding;Finished;346;individuals
+709;PRC;Health;PSS;PSP;1411;141106;Tuding;Finished;60;individuals
+710;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;44;individuals
+711;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;122;individuals
+712;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;49;individuals
+713;PRC;Health;PSS;PSP;1411;141106;Ucab;Finished;350;individuals
+714;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
+715;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;;Finished;;
+716;Spanish Red Cross - AECID;WASH;Sanitation;Portalets;1411;141106;Ucab;Finished;;
+717;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
 718;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
-719;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;individuals
-720;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Loacan;Finished;28;individuals
-721;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
-722;IFRC;Health ;PSS;PSP;1411;141106;Loacan;Finished;23;individuals
-723;IFRC;Health ;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
-724;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1411;141106;Ampucao;Finished;149;families
-725;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1411;141106;Ampucao;Finished;149;families
+719;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;346;individuals
+720;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
+721;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Ucab;Finished;22;individuals
+722;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141106;Loacan;Finished;28;individuals
+723;IFRC;WASH;Sanitation;Payloader;1411;141106;Midas;Finished;;
+724;IFRC;Health;PSS;PSP;1411;141106;Loacan;Finished;23;individuals
+725;IFRC;Health;PSS;PSP;1411;141106;Ucab;Finished;64;individuals
 726;PRC;Assessment;Assessment;RDANA;1411;141107;;Finished;1;area
-727;PRC;Health ;PSS;PSP;1411;141107;Poblacion;Finished;8;Individuals
+727;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;8;Individuals
 728;IFRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1411;141107;Poblacion;Finished;155;families
 729;IFRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1411;141107;Poblacion;Finished;155;families
 730;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Nets);1411;141107;Poblacion;Finished;155;families
 731;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141107;Poblacion;Finished;155;families
 732;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141107;Poblacion;Finished;155;families
 733;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141107;Poblacion;Finished;155;families
-734;PRC;Health ;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
+734;PRC;Health;PSS;PSP;1411;141107;Poblacion;Finished;228;individuals
 735;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;315;individuals
 736;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141107;Poblacion;Finished;168;individuals
 737;PRC Quirino Chapter;Relief;Food Items;Food Items (Standard);1481;148104;Poblacion;Finished;152;families
@@ -740,12 +740,12 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 742;IFRC;WASH;Non-Food Items;Hygiene Kit;1411;141108;Lomon;Finished;345;families
 743;IFRC;WASH;Non-Food Items;Jerry Cans;1411;141108;Lomon;Finished;345;families
 744;IFRC;Relief;Non-Food Items;Tarpaulins;1411;141108;Lomon;Finished;345;families
-745;PRC;Health ;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
+745;PRC;Health;PSS;PSP;1411;141108;Lomon;Finished;116;individuals
 746;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Lomon;Finished;412;individuals
 747;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141108;Poblacion;Finished;412;individuals
 748;PRC;Relief;Non-Food Items;Sleeping Kit (Plastic Mats);1427;142703;Tuplac;Finished;5;families
 749;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1427;142703;Tuplac;Finished;15;families
-750;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142703;Bolog;Finished;1;families
+750;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142703;Bolog;Finished;1;families
 751;Spanish Red Cross - AECID;Relief;Food Items;Food Items (Standard);1411;141109;Poblacion;Finished;110;families
 752;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140108;;Finished;51;families
 753;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140108;;Finished;51;families
@@ -760,8 +760,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 762;PRC;Assessment;Assessment;RDANA;1411;141110;;Finished;1;area
 763;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;Wangal;Finished;40;individuals
 764;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141110;;Finished;51;individuals
-765;IFRC;Health ;PSS;PSP;1411;141110;Alapang;Finished;127;individuals
-766;Spanish Red Cross-AECID;Health ;PSS;PSP;1411;141110;Wangal;Finished;40;individuals
+765;IFRC;Health;PSS;PSP;1411;141110;Alapang;Finished;127;individuals
+766;Spanish Red Cross-AECID;Health;PSS;PSP;1411;141110;Wangal;Finished;40;individuals
 767;PRC;Assessment;Assessment;RDANA;1401;140110;;Finished;1;area
 768;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140110;;Finished;3;families
 769;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140110;;Finished;3;families
@@ -769,65 +769,65 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 771;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140110;;Finished;8;families
 772;ICRC;Shelter;Shelter Tool Kits;Shelter Tool kits;1401;140110;;Finished;4;families
 773;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140110;;Finished;4;families
-774;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142704;Poblacion. North;Finished;1;families
+774;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142704;Poblacion. North;Finished;1;families
 775;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140111;;Finished;2;families
 776;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140111;;Finished;2;families
 777;PRC;Assessment;Assessment;RDANA;215;21516;;Finished;1;area
-778;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Agabao;Finished;8;families
-779;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Bical;Finished;7;families
-780;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Bicud;Finished;7;families
-781;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Binag;Finished;13;families
-782;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Cabayabasan;Finished;7;families
-783;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Cagoran;Finished;21;families
-784;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Cambong;Finished;23;families
-785;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Dagupan;Finished;22;families
-786;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Dalaya;Finished;30;families
-787;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Fabrica;Finished;26;families
-788;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Fusina;Finished;8;families
-789;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Magalungon;Finished;27;families
-790;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Malanao;Finished;25;families
-791;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Maxingal;Finished;1;families
-792;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Paranum;Finished;13;families
-793;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;Rosario;Finished;15;families
-794;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;San Antonio;Finished;9;families
-795;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;San Juan;Finished;7;families
-796;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21516;San Mariano;Finished;51;families
+778;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Agabao;Finished;8;families
+779;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Bical;Finished;7;families
+780;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Bicud;Finished;7;families
+781;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Binag;Finished;13;families
+782;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Cabayabasan;Finished;7;families
+783;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Cagoran;Finished;21;families
+784;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Cambong;Finished;23;families
+785;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Dagupan;Finished;22;families
+786;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Dalaya;Finished;30;families
+787;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Fabrica;Finished;26;families
+788;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Fusina;Finished;8;families
+789;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Magalungon;Finished;27;families
+790;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Malanao;Finished;25;families
+791;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Maxingal;Finished;1;families
+792;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Paranum;Finished;13;families
+793;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;Rosario;Finished;15;families
+794;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;San Antonio;Finished;9;families
+795;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;San Juan;Finished;7;families
+796;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21516;San Mariano;Finished;51;families
 797;PRC;Assessment;Assessment;RDANA;1427;142705;;Finished;1;area
 798;ICRC;Shelter;Shelter Tool Kits;Shelter Tool kits;1401;140112;;Finished;1;families
 799;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140112;;Finished;1;families
 800;PRC;Relief;Ready-to-Eat;Hot Meals;128;12812;Coaoacan;Finished;84;individuals
-801;PRC;Health ;PSS;PSP;128;12812;Coaoacan;Finished;84;individuals
+801;PRC;Health;PSS;PSP;128;12812;Coaoacan;Finished;84;individuals
 802;PRC;Assessment;Assessment;RDANA;128;12812;;Finished;1;area
 804;PRC;Assessment;Assessment;RDANA;215;21517;;Finished;1;area
-805;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21517;Aggunetan;Finished;207;individuals
-806;PRC;Health ;Health;First Aid Station;215;21517;Aggunetan;Finished;1;area
+805;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21517;Aggunetan;Finished;207;individuals
+806;PRC;Health;Health;First Aid Station;215;21517;Aggunetan;Finished;1;area
 807;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;215;21517;Aggunetan;Finished;207;Families
 808;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;215;21517;Aggunetan;Finished;207;Families
-809;PRC;Health ;PSS;Welfare Desk;215;21517;Aggunetan;Finished;;
-810;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Agunetan;Finished;20;families
-811;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Allanay;Finished;21;families
-812;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Batalan;Finished;14;families
-813;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Cabatacan;Finished;10;families
-814;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Calapangan Norte;Finished;9;families
-815;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Callao Norte;Finished;10;families
-816;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Callao Sur;Finished;1;families
-817;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Centro 1;Finished;8;families
-818;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Centro 2;Finished;8;families
-819;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Centro 3;Finished;6;families
-820;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Finugo Norte;Finished;5;families
-821;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Gabun;Finished;15;families
-822;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Ignacio Jorado;Finished;14;families
-823;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Magsaysay;Finished;20;families
-824;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Minanga Norte;Finished;5;families
-825;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Minanga Sur;Finished;11;families
-826;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Nabannagan East;Finished;4;families
-827;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Nabannagan West;Finished;23;families
-828;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;New Orlins;Finished;7;families
-829;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Nicolas Agatep;Finished;15;families
-830;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;San Pedro;Finished;23;families
-831;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Sicalao;Finished;13;families
-832;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Tagao;Finished;13;families
-833;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);215;21517;Tucalao Passing;Finished;13;families
+809;PRC;Health;PSS;Welfare Desk;215;21517;Aggunetan;Finished;;
+810;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Agunetan;Finished;20;families
+811;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Allanay;Finished;21;families
+812;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Batalan;Finished;14;families
+813;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Cabatacan;Finished;10;families
+814;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Calapangan Norte;Finished;9;families
+815;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Callao Norte;Finished;10;families
+816;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Callao Sur;Finished;1;families
+817;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Centro 1;Finished;8;families
+818;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Centro 2;Finished;8;families
+819;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Centro 3;Finished;6;families
+820;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Finugo Norte;Finished;5;families
+821;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Gabun;Finished;15;families
+822;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Ignacio Jorado;Finished;14;families
+823;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Magsaysay;Finished;20;families
+824;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Minanga Norte;Finished;5;families
+825;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Minanga Sur;Finished;11;families
+826;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Nabannagan East;Finished;4;families
+827;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Nabannagan West;Finished;23;families
+828;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;New Orlins;Finished;7;families
+829;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Nicolas Agatep;Finished;15;families
+830;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;San Pedro;Finished;23;families
+831;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Sicalao;Finished;13;families
+832;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Tagao;Finished;13;families
+833;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);215;21517;Tucalao Passing;Finished;13;families
 834;ICRC;Shelter;Shelter Tool Kits;Shelter Tool kits;1401;140113;;Finished;48;families
 835;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140113;;Finished;48;families
 836;PRC;Relief;Ready-to-Eat;Hot Meals;308;30806;;Finished;202;individuals
@@ -850,8 +850,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 853;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1432;143206;;Finished;174;families
 854;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1432;143206;;Finished;174;families
 855;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;San Isidro;Finished;172;individuals
-856;PRC;Health ;Health;First Aid Station;1481;148105;Poblacion;Finished;1;area
-857;PRC;Health ;PSS;Welfare Desk;1481;148105;San Isidro Sur;Finished;;
+856;PRC;Health;Health;First Aid Station;1481;148105;Poblacion;Finished;1;area
+857;PRC;Health;PSS;Welfare Desk;1481;148105;San Isidro Sur;Finished;;
 858;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148105;Poblacion;Finished;150;individuals
 859;PRC;Assessment;Assessment;RDANA;1481;148105;;Finished;1;area
 860;PRC;Relief;Food Items;Food Items (Standard);1481;148105;Quirino;Finished;7;families
@@ -863,32 +863,32 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 866;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148105;;Finished;83;families
 867;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148105;;Finished;83;families
 868;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148105;;Finished;83;families
-869;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Bacsay;Finished;16;families
-870;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Cagandungan;Finished;3;families
-871;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Calabigan;Finished;5;families
-872;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Capagaypayan;Finished;2;families
-873;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Consuelo Santa Marcela;Finished;1;families
-874;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Dagupan;Finished;10;families
-875;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Lappa;Finished;19;families
-876;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Luyon;Finished;3;families
-877;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Marag;Finished;15;families
-878;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Poblacion;Finished;2;families
-879;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Quirino;Finished;9;families
-880;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Salvacion;Finished;4;families
-881;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;San Francisco;Finished;4;families
-882;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;San Isidro;Finished;4;families
-883;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;San Isidro Norte;Finished;5;families
-884;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;San Isidro Sur;Finished;5;families
-885;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;San Jose;Finished;5;families
-886;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Santa Lina;Finished;12;families
-887;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Santa Marcela;Finished;1;families
-888;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Tumog;Finished;6;families
-889;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Turod;Finished;13;families
-890;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148105;Zumigui;Finished;14;families
-891;PRC;Health ;Health;First Aid;133;13310;Darigayos;Finished;2;individuals
+869;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Bacsay;Finished;16;families
+870;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Cagandungan;Finished;3;families
+871;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Calabigan;Finished;5;families
+872;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Capagaypayan;Finished;2;families
+873;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Consuelo Santa Marcela;Finished;1;families
+874;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Dagupan;Finished;10;families
+875;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Lappa;Finished;19;families
+876;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Luyon;Finished;3;families
+877;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Marag;Finished;15;families
+878;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Poblacion;Finished;2;families
+879;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Quirino;Finished;9;families
+880;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Salvacion;Finished;4;families
+881;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;San Francisco;Finished;4;families
+882;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;San Isidro;Finished;4;families
+883;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;San Isidro Norte;Finished;5;families
+884;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;San Isidro Sur;Finished;5;families
+885;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;San Jose;Finished;5;families
+886;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Santa Lina;Finished;12;families
+887;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Santa Marcela;Finished;1;families
+888;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Tumog;Finished;6;families
+889;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Turod;Finished;13;families
+890;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148105;Zumigui;Finished;14;families
+891;PRC;Health;Health;First Aid;133;13310;Darigayos;Finished;2;individuals
 892;PRC;Relief;Ready-to-Eat;Hot Meals;133;13310;Darigayos;Finished;208;individuals
-893;PRC;Health ;PSS;Welfare Desk;133;13310;Darigayos;Finished;;
-894;PRC;Health ;PSS;PSP;133;13310;Darigayos;Finished;208;individuals
+893;PRC;Health;PSS;Welfare Desk;133;13310;Darigayos;Finished;;
+894;PRC;Health;PSS;PSP;133;13310;Darigayos;Finished;208;individuals
 895;PRC;Assessment;Assessment;RDANA;133;13310;;Finished;1;area
 896;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;Santa Monica;Finished;20;individuals
 897;PRC;Relief;Ready-to-Eat;Hot Meals;129;12912;San Clemente;Finished;39;individuals
@@ -900,16 +900,16 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 903;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140116;;Finished;10;families
 904;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140116;;Finished;10;families
 905;PRC;Assessment;Assessment;RDANA;128;12813;;Finished;1;area
-906;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142706;Ayangan;Finished;1;families
-907;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1427;142706;Bato-alatbang;Finished;1;families
+906;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142706;Ayangan;Finished;1;families
+907;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1427;142706;Bato-alatbang;Finished;1;families
 908;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Calapan;Finished;55;individuals
 909;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta Lucia East;Finished;229;individuals
-910;PRC;Health ;PSS;PSP;369;36909;Banaoang East ;Finished;10;individuals
-911;PRC;Health ;PSS;PSP;369;36909;Banaoang West ;Finished;2;individuals
-912;PRC;Health ;PSS;PSP;369;36909;Sta. Lucia Wes;Finished;25;individuals
-913;PRC;Health ;PSS;PSP;369;36909;Baquero Norte;Finished;13;individuals
-914;PRC;Health ;PSS;PSP;369;36909;Sta. Lucia East;Finished;14;individuals
-915;PRC;Health ;PSS;PSP;369;36909;Calapan;Finished;5;individuals
+910;PRC;Health;PSS;PSP;369;36909;Banaoang East;Finished;10;individuals
+911;PRC;Health;PSS;PSP;369;36909;Banaoang West;Finished;2;individuals
+912;PRC;Health;PSS;PSP;369;36909;Sta. Lucia Wes;Finished;25;individuals
+913;PRC;Health;PSS;PSP;369;36909;Baquero Norte;Finished;13;individuals
+914;PRC;Health;PSS;PSP;369;36909;Sta. Lucia East;Finished;14;individuals
+915;PRC;Health;PSS;PSP;369;36909;Calapan;Finished;5;individuals
 916;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Sta. Lucia West;Finished;678;individuals
 917;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang East;Finished;90;individuals
 918;PRC;Relief;Ready-to-Eat;Biscuits;369;36909;Banaoang West;Finished;126;individuals
@@ -938,18 +938,18 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 941;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;Libaba;Finished;41;individuals
 942;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;San Juan;Finished;20;individuals
 943;PRC;Relief;Ready-to-Eat;Biscuits;371;37108;East Poblacion;Finished;4;individuals
-944;PRC;Health ;Referral;Welfare Referral;215;21518;Tupanna;Finished;15;individuals
-945;PRC;Health ;Referral;Welfare Referral;215;21518;Nagtupacan;Finished;10;individuals
+944;PRC;Health;Referral;Welfare Referral;215;21518;Tupanna;Finished;15;individuals
+945;PRC;Health;Referral;Welfare Referral;215;21518;Nagtupacan;Finished;10;individuals
 946;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Tupanna;Finished;198;families
 947;Team A KAM, QC;Relief;Food Items;Food Items (Assorted);215;21518;Nagtupacan;Finished;234;families
-948;PRC;Health ;PSS;PSP;215;21518;Tupana;Finished;198;individuals
-949;PRC;Health ;PSS;PSP;215;21518;Nagtupacan;Finished;234;individuals
+948;PRC;Health;PSS;PSP;215;21518;Tupana;Finished;198;individuals
+949;PRC;Health;PSS;PSP;215;21518;Nagtupacan;Finished;234;individuals
 950;PRC;Assessment;Assessment;RDANA;215;21518;;Finished;1;area
-951;PRC;Health ;Health;First Aid Station;215;21518;Tupanna;Finished;1;area
-952;PRC;Health ;PSS;Welfare Desk;215;21518;Tupanna;Finished;;
-953;PRC;Health ;PSS;Welfare Desk;215;21518;Nagtupacan;Finished;;
-954;PRC;Health ;PSS;PSP;369;36910;Salumague;Finished;10;individuals
-955;PRC;Health ;PSS;PSP;369;36910;San Isidro;Finished;8;individuals
+951;PRC;Health;Health;First Aid Station;215;21518;Tupanna;Finished;1;area
+952;PRC;Health;PSS;Welfare Desk;215;21518;Tupanna;Finished;;
+953;PRC;Health;PSS;Welfare Desk;215;21518;Nagtupacan;Finished;;
+954;PRC;Health;PSS;PSP;369;36910;Salumague;Finished;10;individuals
+955;PRC;Health;PSS;PSP;369;36910;San Isidro;Finished;8;individuals
 956;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Salumague;Finished;847;individuals
 957;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;Alupid;Finished;272;individuals
 958;PRC;Relief;Ready-to-Eat;Biscuits;369;36910;San Isidro;Finished;117;individuals
@@ -1002,7 +1002,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1005;PRC;Assessment;Assessment;RDANA;128;12819;;Finished;1;area
 1006;PRC;Assessment;Assessment;RDANA;1432;143209;;Finished;1;area
 1007;PRC;Relief;Ready-to-Eat;Hot Meals;1432;143209;Socbot;Finished;148;individuals
-1008;PRC;Health ;PSS;PSP;1432;143209;Socbot;Finished;72;individuals
+1008;PRC;Health;PSS;PSP;1432;143209;Socbot;Finished;72;individuals
 1009;PRC;Relief;Ready-to-Eat;Hot Meals;1339;133913;Baseco;Finished;427;individuals
 1010;PRC;Relief;Ready-to-Eat;Hot Meals;1481;148106;Cabatacan;Finished;211;individuals
 1011;PRC;Assessment;Assessment;RDANA;1481;148106;;Finished;1;area
@@ -1014,27 +1014,27 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1017;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148106;;Finished;203;families
 1018;PRC;Relief;Food Items;Food Items (Standard);1481;148106;San Jose;Finished;93;families
 1019;PRC;Relief;Food Items;Food Items (Standard);1481;148106;Barocboc;Finished;52;families
-1020;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Aga;Finished;8;families
-1021;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Alem;Finished;6;families
-1022;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Amado;Finished;7;families
-1023;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Aurora;Finished;21;families
-1024;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Cabatacan;Finished;11;families
-1025;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Capannikian;Finished;18;families
-1026;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Doña Loreta;Finished;9;families
-1027;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Emilia;Finished;8;families
-1028;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Imelda;Finished;8;families
-1029;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Lower Maton;Finished;7;families
-1030;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Lt. Bilag;Finished;6;families
-1031;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Lydia;Finished;7;families
-1032;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Malibang;Finished;7;families
-1033;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Mataguisi;Finished;17;families
-1034;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Poblacion;Finished;3;families
-1035;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;San Antonio (Pugo);Finished;2;families
-1036;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;San Jose;Finished;9;families
-1037;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;San Luis;Finished;4;families
-1038;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;San Mariano;Finished;9;families
-1039;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Swan;Finished;14;families
-1040;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148106;Upper Maton;Finished;6;families
+1020;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Aga;Finished;8;families
+1021;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Alem;Finished;6;families
+1022;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Amado;Finished;7;families
+1023;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Aurora;Finished;21;families
+1024;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Cabatacan;Finished;11;families
+1025;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Capannikian;Finished;18;families
+1026;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Doña Loreta;Finished;9;families
+1027;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Emilia;Finished;8;families
+1028;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Imelda;Finished;8;families
+1029;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Lower Maton;Finished;7;families
+1030;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Lt. Bilag;Finished;6;families
+1031;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Lydia;Finished;7;families
+1032;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Malibang;Finished;7;families
+1033;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Mataguisi;Finished;17;families
+1034;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Poblacion;Finished;3;families
+1035;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;San Antonio (Pugo);Finished;2;families
+1036;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;San Jose;Finished;9;families
+1037;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;San Luis;Finished;4;families
+1038;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;San Mariano;Finished;9;families
+1039;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Swan;Finished;14;families
+1040;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148106;Upper Maton;Finished;6;families
 1041;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Tatalon;Finished;215;individuals
 1042;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Roxas;Finished;154;individuals
 1043;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Dona Imelda;Finished;236;individuals
@@ -1043,10 +1043,10 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1046;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Sta. Lucia;Finished;260;individuals
 1047;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Apolonio Samson;Finished;363;individuals
 1048;PRC;Relief;Ready-to-Eat;Biscuits;1374;137404;Maresa;Finished;32;individuals
-1049;PRC;Health ;Health;First Aid;1374;137404;Dona Imelda;Finished;3;individuals
-1050;PRC;Health ;Health;First Aid;1374;137404;Bagong Silangan;Finished;1;individuals
-1051;PRC;Health ;Health;Blood Pressure;1374;137404;Dona Imelda;Finished;22;individuals
-1052;PRC;Health ;Health;Blood Pressure;1374;137404;Bagong Silangan;Finished;49;individuals
+1049;PRC;Health;Health;First Aid;1374;137404;Dona Imelda;Finished;3;individuals
+1050;PRC;Health;Health;First Aid;1374;137404;Bagong Silangan;Finished;1;individuals
+1051;PRC;Health;Health;Blood Pressure;1374;137404;Dona Imelda;Finished;22;individuals
+1052;PRC;Health;Health;Blood Pressure;1374;137404;Bagong Silangan;Finished;49;individuals
 1053;PRC;Relief;Ready-to-Eat;Biscuits;369;36912;Poblacion South;Finished;72;individuals
 1054;PRC;Relief;Ready-to-Eat;Bread;369;36912;Poblacion South;Finished;72;individuals
 1055;PRC;Assessment;Assessment;RDANA;1432;143211;;Finished;1;area
@@ -1082,9 +1082,9 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1085;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140122;;Finished;1;families
 1086;ICRC;Shelter;Shelter Tool Kits;Shelter Tool kits;1401;140122;;Finished;1;families
 1087;ICRC;Shelter;Shelter Tool Kits;Tarpaulins;1401;140122;;Finished;1;families
-1088;PRC;Health ;PSS;Welfare Desk;133;13316;;Finished;;
+1088;PRC;Health;PSS;Welfare Desk;133;13316;;Finished;;
 1089;PRC;Relief;Ready-to-Eat;Hot Meals;133;13316;;Finished;219;individuals
-1090;PRC;Health ;PSS;PSP;133;13316;Centro;Finished;219;individuals
+1090;PRC;Health;PSS;PSP;133;13316;Centro;Finished;219;individuals
 1091;PRC;Assessment;Assessment;RDANA;133;13316;;Finished;1;area
 1092;PRC;Relief;Food Items;Food Items (Standard);133;13316;Nagsabaran;Finished;1;families
 1093;PRC;Relief;Ready-to-Eat;Hot Meals;231;23133;Simanu Sur;Finished;136;individuals
@@ -1135,48 +1135,48 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1138;Australian DFAT;WASH;Non-Food Items;Hygiene Kit;1481;148107;;Finished;81;families
 1139;Australian DFAT;WASH;Non-Food Items;Jerry Cans;1481;148107;;Finished;81;families
 1140;Australian DFAT;Relief;Non-Food Items;Tarpaulins;1481;148107;;Finished;81;families
-1141;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Abra Village;Finished;2;families
-1142;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Barocboc;Finished;7;families
-1143;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Bayog;Finished;2;families
-1144;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Consuelo;Finished;8;families
-1145;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Emiliana;Finished;4;families
-1146;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Imelda (Sipa Annex);Finished;7;families
-1147;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Malekkeg;Finished;5;families
-1148;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Marcela (Poblacion);Finished;9;families
-1149;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Nueva;Finished;6;families
-1150;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Panay;Finished;8;families
-1151;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;San Antonio;Finished;3;families
-1152;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;San Carlos;Finished;15;families
-1153;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;San Juan;Finished;7;families
-1154;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;San Mariano;Finished;2;families
-1155;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1481;148107;Sipa Proper;Finished;4;families
+1141;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Abra Village;Finished;2;families
+1142;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Barocboc;Finished;7;families
+1143;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Bayog;Finished;2;families
+1144;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Consuelo;Finished;8;families
+1145;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Emiliana;Finished;4;families
+1146;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Imelda (Sipa Annex);Finished;7;families
+1147;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Malekkeg;Finished;5;families
+1148;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Marcela (Poblacion);Finished;9;families
+1149;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Nueva;Finished;6;families
+1150;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Panay;Finished;8;families
+1151;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;San Antonio;Finished;3;families
+1152;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;San Carlos;Finished;15;families
+1153;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;San Juan;Finished;7;families
+1154;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;San Mariano;Finished;2;families
+1155;Spanish Red Cross;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1481;148107;Sipa Proper;Finished;4;families
 1156;PRC;Assessment;Assessment;RDANA;231;23134;;Finished;1;area
 1157;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Antonio;Finished;338;individuals
 1158;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Antonio;Finished;338;individuals
 1159;PRC;Relief;Ready-to-Eat;Biscuits;231;23134;San Rafael;Finished;199;individuals
 1160;PRC;Relief;Ready-to-Eat;Hot Meals;231;23134;San Rafael;Finished;199;individuals
-1161;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23134;San Antonio;Finished;89;families
-1162;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23134;Naganacan;Finished;160;families
+1161;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23134;San Antonio;Finished;89;families
+1162;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23134;Naganacan;Finished;160;families
 1163;PRC;Assessment;Assessment;RDANA;215;21524;;Finished;1;area
-1164;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
-1165;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Villa;Finished;200;individuals
-1166;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Mission;Finished;500;individuals
-1167;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
+1164;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
+1165;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Villa;Finished;200;individuals
+1166;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Mission;Finished;500;individuals
+1167;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21525;Centro;Finished;500;individuals
 1168;PRC;Assessment;Assessment;RDANA;215;21525;;Finished;1;area
-1169;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;12000;liters
-1170;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;10000;liters
-1171;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
-1172;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Villa;Finished;2000;liters
-1173;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Mission;Finished;4000;liters
-1174;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro;Finished;3000;liters
-1175;Spanish Red Cross - AECID;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
+1169;IFRC;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;12000;liters
+1170;IFRC;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;10000;liters
+1171;IFRC;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
+1172;IFRC;WASH;Water;Water;215;21525;Villa;Finished;2000;liters
+1173;IFRC;WASH;Water;Water;215;21525;Mission;Finished;4000;liters
+1174;IFRC;WASH;Water;Water;215;21525;Centro;Finished;3000;liters
+1175;IFRC;WASH;Water;Water;215;21525;Centro East and Centro West;Finished;5000;liters
 1176;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Poblacion;Finished;135;individuals
 1177;PRC;Relief;Ready-to-Eat;Hot Meals;129;12928;Vacunero;Finished;17;individuals
 1178;PRC;Relief;Ready-to-Eat;Hot Meals;231;23136;;Finished;398;individuals
-1179;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23136;Canyongan;Finished;51;families
-1180;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23136;Calanigan Norte;Finished;37;families
-1181;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23136;Calanigan Sur;Finished;72;families
-1182;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);231;23136;San Vicente;Finished;122;families
+1179;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23136;Canyongan;Finished;51;families
+1180;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23136;Calanigan Norte;Finished;37;families
+1181;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23136;Calanigan Sur;Finished;72;families
+1182;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);231;23136;San Vicente;Finished;122;families
 1183;PRC;Assessment;Assessment;RDANA;129;12930;;Finished;1;area
 1184;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;129;12930;;Completed;476;families
 1185;Spanish Red Cross;Livelihood;Cash;Conditional Cash Grant (PHP 10,000);129;12930;Cabarambanan;Finished;55;Households
@@ -1217,37 +1217,37 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1220;PRC;Relief;Non-Food Items;Sleeping Kit (Blankets);1411;141113;Camp 4-6;Finished;105;families
 1221;PRC;WASH;Non-Food Items;Jerry Cans;1411;141113;Camp 4-6;Finished;168;families
 1222;PRC;Assessment;Assessment;RDANA;1411;141113;;Finished;1;area
-1223;Unknown;Health ;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
+1223;Spanish Red Cross - AECID;Health;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
 1224;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141113;Nangalisan;Finished;568;individuals
-1225;IFRC;Health ;PSS;PSP;1411;141113;Padcal;Finished;26;individuals
-1226;IFRC;Health ;PSS;PSP;1411;141113;Tadiangan;Finished;75;individuals
-1227;Spanish Red Cross-AECID;Health ;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
-1228;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Ansagan;Finished;6;families
-1229;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Camp 1;Finished;7;families
-1230;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Camp 3;Finished;35;families
-1231;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Camp 4;Finished;37;families
-1232;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Camp 6;Finished;5;families
-1233;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Nangalisan;Finished;21;families
-1234;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Poblacion;Finished;62;families
-1235;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Tabaan Sur;Finished;2;families
-1236;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Tadiangan;Finished;11;families
-1237;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Taloy Norte;Finished;27;families
-1238;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Taloy sur;Finished;7;families
-1239;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP 3,500);1411;141113;Twin peaks;Finished;3;families
+1225;IFRC;Health;PSS;PSP;1411;141113;Padcal;Finished;26;individuals
+1226;IFRC;Health;PSS;PSP;1411;141113;Tadiangan;Finished;75;individuals
+1227;Spanish Red Cross-AECID;Health;PSS;PSP;1411;141113;Tadiangan;Finished;87;individuals
+1228;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Ansagan;Finished;6;families
+1229;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Camp 1;Finished;7;families
+1230;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Camp 3;Finished;35;families
+1231;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Camp 4;Finished;37;families
+1232;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Camp 6;Finished;5;families
+1233;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Nangalisan;Finished;21;families
+1234;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Poblacion;Finished;62;families
+1235;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Tabaan Sur;Finished;2;families
+1236;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Tadiangan;Finished;11;families
+1237;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Taloy Norte;Finished;27;families
+1238;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Taloy sur;Finished;7;families
+1239;IFRC;Relief;Cash;Multi-Purpose Cash Grant (PHP3,500);1411;141113;Twin peaks;Finished;3;families
 1240;PRC;Relief;Ready-to-Eat;Hot Meals;133;13320;;Finished;75;individuals
-1241;PRC;Health ;PSS;Welfare Desk;133;13320;;Finished;;
+1241;PRC;Health;PSS;Welfare Desk;133;13320;;Finished;;
 1242;PRC;Assessment;Assessment;RDANA;133;13320;;Finished;1;area
 1243;PRC;WASH;Sanitation;Clearing operations;1411;141114;Daclan;Finished;1;community
 1244;Rayomar Outreach Foundation;Relief;Food Items;Food Items (Assorted);1411;141114;Daclan;Finished;300;families
 1245;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Daclan;Finished;275;individuals
 1246;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;141114;Ambongdulan;Finished;118;individuals
 1247;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Balzain East;Finished;132;individuals
-1248;PRC;Health ;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
-1249;PRC;Health ;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
+1248;PRC;Health;PSS;PSP;215;21529;Balzain East;Finished;393;individuals
+1249;PRC;Health;Referral;Health Referral;215;21529;Balzain East;Finished;5;individuals
 1250;PRC;Relief;Ready-to-Eat;Biscuits;215;21529;Balzain East;Finished;132;individuals
-1251;PRC;Health ;Referral;Welfare Referral;215;21529;Balzain East;Finished;15;individuals
+1251;PRC;Health;Referral;Welfare Referral;215;21529;Balzain East;Finished;15;individuals
 1252;PRC;Relief;Ready-to-Eat;Hot Meals;215;21529;Linao East;Finished;280;individuals
-1253;PRC;Health ;PSS;PSP;215;21529;Linao East;Finished;560;individuals
+1253;PRC;Health;PSS;PSP;215;21529;Linao East;Finished;560;individuals
 1254;PRC;WASH;Sanitation;Clearing operations;215;21529;San Gabriel;Finished;1;community
 1255;PRC;WASH;Sanitation;Clearing operations;215;21529;Cataggaman;Finished;1;community
 1256;PRC;WASH;Sanitation;Clearing operations;215;21529;Carig;Finished;1;community
@@ -1270,18 +1270,18 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1273;ICRC;Shelter;Shelter Tool Kits;Shelter Tool Kits;1401;140127;;Finished;1;families
 1274;PRC;Assessment;Assessment;RDANA;128;12823;;Finished;1;area
 1275;PRC;Relief;Ready-to-Eat;Hot Meals;516;51612;Poblacion;Finished;528;individuals
-1276;PRC;Health ;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
-1277;PRC;Health ;PSS;Welfare Desk;1401;;;Finished;;
+1276;PRC;Health;PSS;PSP;516;51612;Poblacion;Finished;528;individuals
+1277;PRC;Health;PSS;Welfare Desk;1401;;;Finished;;
 1278;Spanish Red Cross - AECID;WASH;Hygiene Promotion;Hygiene Promotion;1411;;;Finished;13;volunteers
-1282;PRC;Health ;PSS;Welfare Desk;1427;;;Finished;;
-1283;PRC;Health ;PSS;Welfare Desk;128;;;Finished;;
-1284;PRC;Health ;PSS;Welfare Desk;129;;;Finished;;
-1286;PRC;Health ;PSS;Welfare Desk;231;;;Finished;;
-1287;PRC;Health ;PSS;Welfare Desk;1432;;;Finished;;
-1288;PRC;Health ;PSS;Welfare Desk;1432;;;Finished;;
-1289;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;;;Finished;279;individuals
-1290;PRC;Health ;Health;Blood Units;133;;;Finished;1;units
-1291;PRC;Health ;PSS;Welfare Desk;250;;;Finished;;
-1292;PRC;Health ;Health;Doxycycline;155;;;Delivered;2000;pcs
-1293;PRC;Health ;PSS;Welfare Desk;369;;;Finished;;
-1294;PRC;Health ;PSS;Welfare Desk;371;;;Finished;;
+1282;PRC;Health;PSS;Welfare Desk;1427;;;Finished;;
+1283;PRC;Health;PSS;Welfare Desk;128;;;Finished;;
+1284;PRC;Health;PSS;Welfare Desk;129;;;Finished;;
+1286;PRC;Health;PSS;Welfare Desk;231;;;Finished;;
+1287;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
+1288;PRC;Health;PSS;Welfare Desk;1432;;;Finished;;
+1289;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;;;Finished;279;individuals
+1290;PRC;Health;Health;Blood Units;133;;;Finished;1;units
+1291;PRC;Health;PSS;Welfare Desk;250;;;Finished;;
+1292;PRC;Health;Health;Doxycycline;155;;;Delivered;2000;pcs
+1293;PRC;Health;PSS;Welfare Desk;369;;;Finished;;
+1294;PRC;Health;PSS;Welfare Desk;371;;;Finished;;
